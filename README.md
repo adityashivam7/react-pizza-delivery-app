@@ -3,7 +3,7 @@
 <hr/>
 
 # Install
-  ### `git clone https://github.com/SPRHackz/React_Food_Delivery.git`
+  ### `git clone https://github.com/adityashivam7/react-pizza-delivery-app.git`
   
   ###  `npm install`
   
